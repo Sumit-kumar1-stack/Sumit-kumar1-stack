@@ -59,7 +59,6 @@ My projects focus on more than UI demos — I like working on the parts that mak
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Embeddings-FFD21E?logo=huggingface&logoColor=black)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ---
 
